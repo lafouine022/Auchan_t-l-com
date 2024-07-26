@@ -2,7 +2,7 @@
 
 ![NRJ](https://raw.githubusercontent.com/lafouine022/Auchan_telecom/main/images/nrj.png)
  
- les images sont issus de l'apk nrj qui est a le meme fonctionnement...
+ les images sont issus de l'apk nrj mobile qui a le meme fonctionnement...
  
 ## Description
 
