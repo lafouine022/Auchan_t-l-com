@@ -24,7 +24,7 @@ Pour installer l'application Auchan télécom - Mon Compte, suivez les étapes c
    
    ![QR-code](https://raw.githubusercontent.com/lafouine022/Auchan_telecom/main/images/qr.png)
    
-   [Télécharger l'APK NRJ MOBILE](https://github.com/lafouine022/Auchan_telecom/raw/main/at.apk)
+   [Télécharger l'APK Auchan télécom](https://github.com/lafouine022/Auchan_telecom/raw/main/at.apk)
 
 2. **Autorisez les sources inconnues :** Allez dans les paramètres de votre appareil Android, puis dans "Sécurité" ou "Confidentialité" et activez l'option "Sources inconnues". Cela vous permettra d'installer des applications en dehors du Google Play Store.
 
