@@ -1,7 +1,8 @@
 # Auchan télécom - Mon Compte - APK 
 
 ![NRJ](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/nrj.png)
- les images sont issus de l'apk nrj qui est a le meme focntionnement...
+ 
+ les images sont issus de l'apk nrj qui est a le meme fonctionnement...
  
 ## Description
 
@@ -42,6 +43,7 @@ Une fois l'application installée, vous pouvez :
 ![Capture d'écran de l'application NRJ Mobile - Home](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/1.png)
 ![Capture d'écran de l'application NRJ Mobile - Config](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/2.jpg)
 ![Capture d'écran de l'application NRJ Mobile - Mon Compte](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/3.jpg)
+
 (version NRJ sur les images...)
 
 ## Contributions
