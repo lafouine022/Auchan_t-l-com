@@ -21,7 +21,7 @@ Pour installer l'application Auchan télécom - Mon Compte, suivez les étapes c
 
 1. **Téléchargez l'APK :** Cliquez sur le lien ci-dessous pour télécharger l'application.
    
-   ![QR-code](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/qr.png)
+   ![QR-code](https://raw.githubusercontent.com/lafouine022/Auchan_telecom/main/images/qr.png)
    
    [Télécharger l'APK NRJ MOBILE](https://github.com/lafouine022/Auchan_telecom/raw/main/at.apk)
 
