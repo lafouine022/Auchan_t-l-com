@@ -1,6 +1,6 @@
 # Auchan télécom - Mon Compte - APK 
 
-![NRJ](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/nrj.png)
+![NRJ](https://raw.githubusercontent.com/lafouine022/Auchan_telecom/main/images/nrj.png)
  
  les images sont issus de l'apk nrj qui est a le meme fonctionnement...
  
